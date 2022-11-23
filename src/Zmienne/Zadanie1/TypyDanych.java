@@ -1,4 +1,4 @@
-package TypyDanych.Zadanie2;
+package Zmienne.Zadanie1;
 
 class TypyDanych {
     public static void main(String[] args) {
